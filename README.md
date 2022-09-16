@@ -7,4 +7,11 @@ Then, hit win+r on your keyboard and run will come up. then, type %appdata% and 
 Then, you want to go to your .minecraft folder and create a mods folder if you havent already.
 Then, take the save1011001.jar file and put it in the mods folder.
 Launch mc and enjoy.
-WARNING: bad things might happen to you after running mc with the mod
+WARNING: bad things might happen to you after running mc with the mod.
+
+
+
+
+
+
+Wiki: https://err708.fandom.com/wiki/Err708_Wiki
