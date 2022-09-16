@@ -1,6 +1,6 @@
 # Error708
 
-installation guide:
+Installation guide:
 First, download fabric installer, then install fabric 1.19.2 and set it up, then download java 17 and set it up, or the other way around.
 then, hit win+r on your keyboard and run will come up. then, type %appdata% and hit ok. 
 Then, you want to go to your .minecraft folder and create a mods folder if you havent already.
